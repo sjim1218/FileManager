@@ -11,12 +11,12 @@ namespace FileAndFolderControl
     {
         static void Main(string[] args)
         {
-            var folderManager = new VmsFolderManager();
+            var fileManager = new VmsFileManager();
 
             string sourcePath = @"D:\Programming\VMS\STUDY\DevFileManager\Test\Source";
             string targetPath = @"D:\Programming\VMS\STUDY\DevFileManager\Test\Target";
             
-            var tryCopy = folderManager.CopyFiles(sourcePath, targetPath);
+            var tryCopy = fileManager.CopyFiles(sourcePath, targetPath);
         }
     }
 }

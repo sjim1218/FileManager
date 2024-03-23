@@ -7,7 +7,7 @@ using System.IO;
 
 namespace FileAndFolderControl.Class
 {
-    internal class VmsFolderManager
+    internal class VmsFileManager
     {
         private string SourcePath;
         private string TargetPath;
