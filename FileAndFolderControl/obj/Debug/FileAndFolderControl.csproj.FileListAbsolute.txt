@@ -1,0 +1,7 @@
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\bin\Debug\FileAndFolderControl.exe.config
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\bin\Debug\FileAndFolderControl.exe
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\bin\Debug\FileAndFolderControl.pdb
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\obj\Debug\FileAndFolderControl.csproj.AssemblyReference.cache
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\obj\Debug\FileAndFolderControl.csproj.CoreCompileInputs.cache
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\obj\Debug\FileAndFolderControl.exe
+D:\Programming\VMS\STUDY\DevFileManager\FileAndFolderControl\obj\Debug\FileAndFolderControl.pdb
