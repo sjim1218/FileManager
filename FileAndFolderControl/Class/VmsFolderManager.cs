@@ -37,7 +37,7 @@ namespace FileAndFolderControl.Class
 
             return Directory.GetFiles(sourcePath);
         }
-        private void SetFolderInfos(string sourchPath, string targetPath)
+        private void SetDirectoryPaths(string sourchPath, string targetPath)
         {
             SourcePath = sourchPath;
             TargetPath = targetPath;
@@ -45,7 +45,7 @@ namespace FileAndFolderControl.Class
 
         public bool CopyFiles(string sourcePath, string targetPath)
         {
-            this.SetFolderInfos(sourcePath, targetPath);
+            this.SetDirectoryPaths(sourcePath, targetPath);
             bool isDone = this.Copy();
             return isDone;
         }
